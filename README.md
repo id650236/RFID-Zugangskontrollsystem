@@ -272,7 +272,7 @@ pip install lgpio
 | **Armand Homsi Fotso** | Entwicklung, Testing |
 | **Kameni Beaudexe Yvan** | Entwicklung, Testing |
 
-**Betreuer:** Prof. Dr. Jürgen Kreyssig  
+**Betreuer:** Prof. Dr. Jürgen Kreyssig   
 **Institution:** Fachhochschule Ostfalia · Masterstudiengang Informatik   
 **Gruppe:** 02
 

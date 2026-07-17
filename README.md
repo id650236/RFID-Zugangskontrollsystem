@@ -108,7 +108,7 @@ controle_acces_rfid/
 ### 1. Repository klonen
 
 ```bash
-git clone https://github.com/dein-username/controle_acces_rfid.git
+git clone https://github.com/id650236/controle_acces_rfid.git
 cd controle_acces_rfid
 ```
 
